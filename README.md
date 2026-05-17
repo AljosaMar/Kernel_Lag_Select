@@ -1,6 +1,6 @@
 # KernelLagSelect
 
-KernelLagSelect implements nonparametric autoregressive model analysis for time-series processes. It provides tools for generating nonlinear autoregressive processes, estimating kernel-based conditional means, computing projection functions, evaluating AFPE-style lag-selection criteria, and visualizing conditional mean and projection behavior across candidate lag variables.
+KernelLagSelect implements nonparametric autoregressive model analysis for time-series processes. It provides tools for generating nonlinear autoregressive processes, estimating kernel-based conditional means, computing projections of conditional means, evaluating AFPE-style lag-selection criteria, and visualizing conditional mean and projection behavior across candidate lag variables.
 
 ## Project Structure
 
